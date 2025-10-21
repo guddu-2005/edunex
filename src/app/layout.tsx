@@ -4,7 +4,7 @@ import { Toaster } from '@/components/ui/toaster';
 import Header from '@/components/layout/Header';
 import AIChat from '@/components/AIChat';
 import { cn } from '@/lib/utils';
-import Footer from '@/components/layout/Footer';
+import BottomNavBar from '@/components/layout/BottomNavBar';
 
 export const metadata: Metadata = {
   title: 'LearnVerse',
@@ -29,8 +29,8 @@ export default function RootLayout({
       <body className={cn('min-h-screen bg-background font-body antialiased')}>
         <div className="relative flex min-h-dvh flex-col">
           <Header />
-          <main className="flex-1">{children}</main>
-          <Footer />
+          <main className="flex-1 pb-20">{children}</main>
+          <BottomNavBar />
         </div>
         <AIChat />
         <Toaster />
