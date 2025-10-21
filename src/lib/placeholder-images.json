@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "react-course",
+      "description": "Abstract representation of React framework",
+      "imageUrl": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0ZWNobm9sb2d5JTIwYWJzdHJhY3R8ZW58MHx8fHwxNzYwOTQzODk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "technology abstract"
+    },
+    {
+      "id": "css-course",
+      "description": "Colorful geometric patterns representing CSS design",
+      "imageUrl": "https://images.unsplash.com/photo-1753785945265-58c43b0c86c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkZXNpZ24lMjBwYXR0ZXJufGVufDB8fHx8MTc2MDk1OTY0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "design pattern"
+    },
+    {
+      "id": "ml-course",
+      "description": "Neural network visualization for a machine learning course",
+      "imageUrl": "https://images.unsplash.com/photo-1639322537231-2f206e06af84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuZXVyYWwlMjBuZXR3b3JrfGVufDB8fHx8MTc2MDk1NDUyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "neural network"
+    },
+    {
+      "id": "uiux-course",
+      "description": "Sketches and wireframes for a UI/UX course",
+      "imageUrl": "https://images.unsplash.com/photo-1600697395543-ef3ee6e9af7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZXNpZ24lMjBza2V0Y2h8ZW58MHx8fHwxNzYwOTYwNjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "design sketch"
+    },
+    {
+      "id": "python-course",
+      "description": "Python code on a screen",
+      "imageUrl": "https://images.unsplash.com/photo-1753998943413-8cba1b923c0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29kZSUyMHNjcmVlbnxlbnwwfHx8fDE3NjA5NjIwODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code screen"
+    },
+    {
+      "id": "node-course",
+      "description": "Server racks representing backend development",
+      "imageUrl": "https://images.unsplash.com/photo-1641156803026-0b819059b04d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzZXJ2ZXIlMjBiYWNrZW5kfGVufDB8fHx8MTc2MTAxODM4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "server backend"
+    },
+    {
+      "id": "user-avatar",
+      "description": "A placeholder portrait for a user",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjA5MjcyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "live-class",
+      "description": "A person teaching on a video call",
+      "imageUrl": "https://images.unsplash.com/photo-1586985564150-11ee04838034?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx2aWRlbyUyMGNvbmZlcmVuY2V8ZW58MHx8fHwxNzYwOTQzODU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "video conference"
+    }
+  ]
 }
